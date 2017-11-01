@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerView Json</string>
+    <string name="zomato_api"><![CDATA[https://developers.zomato.com/api/v2.1/search?lat=-5.331648&lon=100.294997&count=100]]></string>
+</resources>
